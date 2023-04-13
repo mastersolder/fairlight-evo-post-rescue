@@ -44,7 +44,8 @@ Step 8: Install the CC-2 Crystal Driver:
 - Reboot
 - Verify that under Device Manager / Sound, video and game controllers, there is a device named "Fairlight CC-2 Card," and that the driver runs without any warnings. If not, try to manually assign a driver by pointing to this directory: C:\Program Files\Fairlight\Dream II\Crystal Drivers\x64
 
-Step 9: Run [EVOPostPatchTool](https://github.com/mastersolder/fairlight-evo-post/releases) as an administrator and follow the instructions in the tool.
+Step 9: Run [EVOPostPatchTool](https://github.com/mastersolder/fairlight-evo-post-rescue/releases) as an administrator and 
+follow the instructions in the tool.
 
 Step 10: Enjoy using your EVO Post system again.
 
